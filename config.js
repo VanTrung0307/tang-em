@@ -1,18 +1,18 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
     introTitle: '🖐🖐 Helluuuuuuu ! 🖐🖐',
-    introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
+    introDesc: `Trung có điều này muốn hỏi Lam, Lam nhớ phải trả lời thật lòng nha`,
     btnIntro: 'OK',
-    title: ' Em thích Anh phải hông ? 😙',
-    desc: 'Em hông trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
-    btnYes: 'Có, em thật sự thích anh 💖💖💖',
-    btnNo: '💔 Anh mơ à ! 💔 ',
-    question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
+    title: ' Lam thích Trung phải hông ? 😙',
+    desc: 'Lam hông trả lời hoặc thoát ra, tức là Lam thích Trung đó nha :> ',
+    btnYes: 'Có, Lam thật sự thích Trung 💖💖💖',
+    btnNo: '💔 Trung mơ à ! 💔 ',
+    question:'Nói cho Trung biết đi vì sao Lam thích Trung 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
+    reply: 'Tại vì Trung đẹp trai đó Ahiiiii 😊😊',
+    mess: 'Trung biết mà, Trung cũng thích Lam lắm 🥰. Love you 300.000 😘😘',
+    messDesc: '💬💬 Nhắn tin cho Trung nha. 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/liw.zhg'
+    messLink: 'https://m.me/vantrun0307'
 }
